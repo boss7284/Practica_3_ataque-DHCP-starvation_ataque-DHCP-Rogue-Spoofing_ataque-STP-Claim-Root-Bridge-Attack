@@ -1,4 +1,3 @@
-# Practica_3_ataque-DHCP-starvation_ataque-DHCP-Rogue-Spoofing_ataque-STP-Claim-Root-Bridge-Attack
 
 # Practica-3-DHCP-Starvation-DHCP-Rogue-STP-Root-Bridge-Attack-gns3-y-scapy
 
